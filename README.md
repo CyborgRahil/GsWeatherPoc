@@ -9,7 +9,6 @@ List of features:
  - Support different screen sizes
 
 - HomePage: Landing page when user open the application
-<img src= "https://ibb.co/3ThgND9"/>
 ![Landing page when user open the application](<https://ibb.co/3ThgND9>)
 
 - Tap on searc icon on top right corner:
