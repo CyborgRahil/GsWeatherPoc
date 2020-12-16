@@ -1,0 +1,2 @@
+include ':mobile-ui', ':cache', ':data', ':domain', ':presentation', ':remote'
+rootProject.name='poc'

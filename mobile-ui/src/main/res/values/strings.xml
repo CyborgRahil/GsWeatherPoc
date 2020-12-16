@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Weather POC</string>
+    <string name="label_empty_result">Oops, there are no results to display</string>
+    <string name="label_error_result">Oops, there was an error fetching the data</string>
+    <string name="button_check_again">Check again</string>
+    <string name="button_try_again">RETRY</string>
+    <string name="error_message_text">Something went wrong&#8230;</string>
+    <string name="error_message_sub_text">An alien is probbably blocking your signal.</string>
+    <string name="search_title">Search</string>
+    <string name="enter_city_name">Enter city name</string>
+    <string name="min_temp">%1$s\u2103</string>
+    <string name="max_temp">%1$s\u2103</string>
+    <string name="humidity">%1$s%%</string>
+    <string name="pressure">%1$s hpa</string>
+    <string name="sunrise">%1$s </string>
+    <string name="sunset">%1$s </string>
+    <string name="network_error_string">You are currently offline. Please check your connectivity settings and try again.</string>
+    <string name="generic_error_string">The application has encountered an unknown error. Please try again.</string>
+    <string name="temp_string">%1$s\u2103</string>
+    <string name="last_updated_time">Last Updated: %1$s</string>
+    <string name="add_fav_city_button">Save as your favourite city</string>
+    <string name="go_to_fav_list_button">Go to Favourite City List </string>
+    <string name="favourite_city_list_title">Favourite City List</string>
+
+</resources>
